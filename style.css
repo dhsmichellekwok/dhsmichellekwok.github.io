@@ -2,10 +2,6 @@
 <html>
 <body>
 <h1> All About Me</h1>
- h1{
-  font-family: verdana;
-  color:blue;
-}
 <title> This is my website </title>
 <p>
 My name is Michelle Kwok. I am a student of Dunman High School. Currently in 1st year high school. My CCA is basketball. </p>
@@ -22,3 +18,10 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 </ul>
 </body>
 </html>
+ h1{
+
+  font-family: verdana;
+  color:blue;
+body {
+    background-color: #ffe6cc;
+}
